@@ -23,3 +23,4 @@ Já trabalhei na **Grid Solutions** como **jovem aprendiz** e atualmente iniciei
 <code><img width="30%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code> <code><img width="30%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code> <code><img width="30%" src="https://www.vectorlogo.zone/logos/commonmark/commonmark-ar21.svg"></code>
 
 
+<img src="https://github.com/adrianoleitedasilva/adrianoleitedasilva/blob/main/hey.gif?raw=true" width="32px">
