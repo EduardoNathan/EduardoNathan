@@ -1,4 +1,4 @@
-## Oi né...
+## Oi né... <img src="https://github.com/EduardoNathan/EduardoNathan/blob/main/hey.gif?raw=true" width="32px">
 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/#/) [![followersGit](https://img.shields.io/github/followers/eduardonathan?style=social)](https://github.com/eduardonathan) <img src="https://komarev.com/ghpvc/?username=eduardonathan&label=Profile%20views&color=0e75b6&style=social" alt="Adriano Leite da Silva" /> ![Dev](https://img.shields.io/badge/Dev-EduardoNathan-lightgrey)
 
@@ -21,6 +21,3 @@ Já trabalhei na **Grid Solutions** como **jovem aprendiz** e atualmente iniciei
 <code><img width="30%%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code> <code><img width="30%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code> <code><img width="30%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <br />
 <code><img width="30%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code> <code><img width="30%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code> <code><img width="30%" src="https://www.vectorlogo.zone/logos/commonmark/commonmark-ar21.svg"></code>
-
-
-<img src="https://github.com/adrianoleitedasilva/adrianoleitedasilva/blob/main/hey.gif?raw=true" width="32px">
