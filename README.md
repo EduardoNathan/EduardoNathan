@@ -1,4 +1,4 @@
-## Oi acabei teleportando aqui... <img src="https://github.com/EduardoNathan/EduardoNathan/blob/main/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4772656174476c6172696e67436f6272612d736d616c6c2e676966.gif?raw=true" width="18%">
+## Oi acabei teleportando aqui <img src="https://github.com/EduardoNathan/EduardoNathan/blob/main/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4772656174476c6172696e67436f6272612d736d616c6c2e676966.gif?raw=true" width="18%">
 
 [![whats](https://img.shields.io/badge/WhatsApp-e8d226?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/11942858992) ![Dev](https://img.shields.io/badge/Dev-EduardoNathan-yellow) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-DEC60D?style=flat-square&logo=Linkedin&logoColor=Black&link=https://www.linkedin.com)](https://www.linkedin.com/)
  [![followersGit](https://img.shields.io/github/followers/eduardonathan?style=social&logoColor=yellow)](https://github.com/eduardonathan) <img src="https://komarev.com/ghpvc/?username=eduardonathan&label=Profile%20views&color=yellow&style=social" alt="Eduardo Nathan" /> [![insta](https://img.shields.io/badge/Instagram-D4BD0F?style=flat-squaree&logo=instagram&logoColor=white)](https://www.instagram.com/off_edxx/)
@@ -44,4 +44,4 @@ Tenho uma expectativa alta e muito boa, minha turma de trainees android é **mui
 
 Até logo... <img src="https://github.com/EduardoNathan/EduardoNathan/blob/main/hey.gif?raw=true" width="25px">
 
-[Voltar ao topo](#oiacabeiteleportandoaqui...)
+[Voltar ao topo](#oi-acabei-teleportando-aqui)
