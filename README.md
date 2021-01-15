@@ -30,6 +30,7 @@ Tenho uma expectativa alta e muito boa, minha turma de trainees android é **mui
 - **Eduardo Nathan**
 - **Joyce Bueno**
 - **Leonardo Cristian**
+- **Marcus Vinicius**
 - **Michael Carlos** 
 
  <hr />
