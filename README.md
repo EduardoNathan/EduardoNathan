@@ -16,17 +16,6 @@ Já trabalhei na **Grid Solutions** como **jovem aprendiz** e atualmente iniciei
 
 Estou em fase de estudos a conhecer coisas novas e me aprofundar em coisas que vi que serão necessárias em meu desenvolvimento como desenvolvedor.
 
-### Minha turma de trainee android 📚💻
-
-- **Instrutor:** _**Adriano Leite**_
-- **Alex Amaral**
-- **Antonio Marcos**
-- **Bruno Bordin**
-- **Eduardo Nathan**
-- **Joyce Bueno**
-- **Leonardo Cristian**
-- **Marcus Vinicius**
-- **Michael Carlos** 
 
  <hr />
 
