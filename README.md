@@ -4,21 +4,17 @@
 
  ## Quem sou eu? ⚡ 
 
-Oi né, me chamo **Eduardo Nathan**, tenho **18 anos**, moro em **Carapicuíba - SP - Brasil**, sou novo na área de Tecnologia, gosto de desenhar, interagir com amigos e amo música.
+Oi né, me chamo **Eduardo Nathan**, tenho **20 anos**, moro em **Carapicuíba - SP - Brasil**, sou novo na área de Tecnologia, gosto de desenhar, interagir com amigos e amo música.
 
 Já trabalhei na **Grid Solutions** como **jovem aprendiz** e atualmente iniciei em um novo desafio como **Programador Trainee** na empresa **Foursys** em programação **Android.**
 
 ## O que estou fazendo atualmente? 🍃
 
-- 🤝 Trabalhando atualmente como Trainee na empresa **Foursys**.
-- ⚡ Aprendendo a programação **Android** com o **Java**. 
-- 🍃 Aprendendo um pouco de **FL Studio**.
-- 🍥 Ouvinte de Podcasts como: **Podpah** e **Flow PodCast**.
-- 🍜 **PC** gamer, se quiser me add no **Fortnite**: **off_duzz**.
+- 🤝 Trabalhando atualmente como Dev Junior na empresa **Foursys**.
 
 ### O que estou achando dessa minha nova fase 🤔
 
-Tenho uma expectativa alta e muito boa, minha turma de trainees android é **muito unida** e muito legal o **trabalho de equipe flui muito bem com eles**, todos estão se ajudando com eventuais problemas, **o instrutor é muito legal**, sabe ensinar, conversa e escuta nós os trainees, estou com mais vontade de aprender depois que iniciei aqui na **Foursys**.
+Estou em fase de estudos a conhecer coisas novas e me aprofundar em coisas que vi que serão necessárias em meu desenvolvimento como desenvolvedor.
 
 ### Minha turma de trainee android 📚💻
 
