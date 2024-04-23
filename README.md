@@ -4,13 +4,13 @@
 
  ## Quem sou eu? ⚡ 
 
-Oi, me chamo **Eduardo Nathan**, tenho **20 anos**, moro em **Carapicuíba - SP - Brasil**, sou novo na área de Tecnologia, gosto de desenhar, interagir com amigos e amo música.
+Oi, me chamo **Eduardo Nathan**, tenho **22 anos**, moro em **Carapicuíba - SP - Brasil**, sou novo na área de Tecnologia, gosto de desenhar, interagir com amigos e amo música.
 
 Já trabalhei na **Grid Solutions** como **jovem aprendiz** e atualmente iniciei em um novo desafio como **Programador Trainee** na empresa **Foursys** em programação **Android.**
 
 ## O que estou fazendo atualmente? 🍃
 
-- 🤝 Trabalhando atualmente como Dev Junior na empresa **Foursys**.
+- 🤝 Estudando React Native e Android Kotlin.
 
 ### O que estou achando dessa minha nova fase 🤔
 
