@@ -6,7 +6,7 @@
 
 Oi, me chamo **Eduardo Nathan**, tenho **22 anos**, moro em **Carapicuíba - SP - Brasil**, sou novo na área de Tecnologia, gosto de desenhar, interagir com amigos e amo música.
 
-Já trabalhei na **Grid Solutions** como **jovem aprendiz** e atualmente iniciei em um novo desafio como **Programador Trainee** na empresa **Foursys** em programação **Android.**
+Já trabalhei na **Grid Solutions** como **jovem aprendiz** e atualmente iniciei em um novo desafio como **Programador React-native** em programação **Mobile hibrido.**
 
 ## O que estou fazendo atualmente? 🍃
 
