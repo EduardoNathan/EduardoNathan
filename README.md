@@ -6,7 +6,7 @@
 
 Oi, me chamo **Eduardo Nathan**, tenho **23 anos**, moro em **Carapicuíba - SP - Brasil**, sou novo na área de Tecnologia, gosto de desenhar, interagir com amigos e amo música.
 
-Já trabalhei **Desenvolvedor Android Junior e Desenvolvedor Java** e atualmente iniciei em um novo desafio como **Programador front-end usando javaScript, HTML e CSS**
+Já trabalhei **Desenvolvedor Android Junior e Desenvolvedor Java** e atualmente iniciei em um novo desafio como **Programador front-end usando javaScript, HTML e CSS e outras tecnologias que vão me qualificar para qualquer desafio!**
 
 ## O que estou fazendo atualmente? 🍃
 
