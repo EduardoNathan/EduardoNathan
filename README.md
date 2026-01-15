@@ -10,7 +10,7 @@ Já trabalhei **Desenvolvedor Android Junior e Desenvolvedor Java** e atualmente
 
 ## O que estou fazendo atualmente? 🍃
 
-- 🤝 Estudando avaScript, HTML e CSS.
+- 🤝 Estudando Next.js.
 
 ### O que estou achando dessa minha nova fase 🤔
 
