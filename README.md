@@ -4,17 +4,17 @@
 
  ## Quem sou eu? ⚡ 
 
-Oi, me chamo **Eduardo Nathan**, tenho **23 anos**, moro em **Carapicuíba - SP - Brasil**, sou novo na área de Tecnologia, gosto de desenhar, interagir com amigos e amo música.
+Oi, me chamo **Eduardo Nathan**, tenho **24 anos**, moro em **Carapicuíba - SP - Brasil**, amo tecnologia! Gosto de desenhar, interagir com amigos e amo música.
 
-Já trabalhei **Desenvolvedor Android Junior e Desenvolvedor Java** e atualmente iniciei em um novo desafio como **Programador front-end usando javaScript, HTML e CSS e outras tecnologias que vão me qualificar para qualquer desafio!**
+Já trabalhei **Desenvolvedor Android Junior e Desenvolvedor Java** e atualmente iniciei em um novo desafio como **Programador front-end!**
 
 ## O que estou fazendo atualmente? 🍃
 
-- 🤝 Estudando Next.js.
+- 🤝 Estudando Next.js, Typescript.
 
 ### O que estou achando dessa minha nova fase 🤔
 
-Estou em fase de estudos a conhecer coisas novas e me aprofundar em coisas que vi que serão necessárias em meu desenvolvimento como desenvolvedor.
+Estou em fase de trabalho e estudos conhecendo coisas novas e me aprofundando ainda mais com o novo emprego! Estou animado pelo ambiente agradável, pelos companheiros de equipe e por conseguir entender mais sobre tudo que remete a area.
 
 
  <hr />
