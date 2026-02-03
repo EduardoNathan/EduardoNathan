@@ -1,18 +1,5 @@
-<table>
-  <tr>
-    <td valign="middle">
-
-## Oi 👋
-
-    </td>
-    <td valign="middle">
-      <img
-        src="https://raw.githubusercontent.com/EduardoNathan/EduardoNathan/main/blue-lock-isagi-yoichi.gif"
-        width="150"
-      />
-    </td>
-  </tr>
-</table>
+## Oi 👋 
+<img src="https://github.com/EduardoNathan/EduardoNathan/blob/main/blue-lock-isagi-yoichi.gif?raw=true" width="18%">
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-8A2BE2?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/11942858992)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7B2CBF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-nathan-a992bb1ab/)
@@ -25,12 +12,10 @@
 
 ## Quem sou eu? ⚡
 
-Oi, me chamo **Eduardo Nathan**, tenho **24 anos**, moro em **Carapicuíba - SP - Brasil** 🇧🇷  
-Sou apaixonado por tecnologia 💜
-
+Oi, me chamo **Eduardo Nathan**, tenho **24 anos**, moro em **Carapicuíba - SP - Brasil** e sou apaixonado por tecnologia 💜  
 Gosto de desenhar, interagir com amigos e amo música 🎧🎨
 
-Já trabalhei como **Desenvolvedor Android Junior** e **Desenvolvedor Java**  
+Já atuei como **Desenvolvedor Android Junior** e **Desenvolvedor Java**  
 Atualmente estou em um novo desafio como **Programador Front-end** 🚀
 
 ---
@@ -39,14 +24,14 @@ Atualmente estou em um novo desafio como **Programador Front-end** 🚀
 
 - 🤝 Estudando **Next.js** e **TypeScript**
 - 💻 Evoluindo diariamente no Front-end
-- 📚 Aprendendo boas práticas, padrões e arquitetura
+- 📚 Aprendendo boas práticas e arquitetura
 
 ---
 
 ## O que estou achando dessa nova fase 🤔
 
 Estou conciliando trabalho e estudos, conhecendo tecnologias novas e me aprofundando cada vez mais.  
-O ambiente é muito bom, o time é massa e estou curtindo demais esse momento da minha carreira 💜
+O ambiente é agradável, o time é incrível e estou curtindo muito esse novo momento da minha carreira 💜
 
 ---
 
@@ -63,20 +48,16 @@ O ambiente é muito bom, o time é massa e estou curtindo demais esse momento da
 ![Java](https://img.shields.io/badge/Java-9D4EDD?style=flat-square&logo=java&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-7B2CBF?style=flat-square&logo=android&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-6F2DBD?style=flat-square&logo=markdown&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-8A2BE2?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-7B2CBF?style=flat-square&logo=nextdotjs&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=eduardonathan&show_icons=true&theme=midnight-purple&title_color=9D4EDD&icon_color=8A2BE2&text_color=CDB4DB&bg_color=0D1117"
-/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardonathan&show_icons=true&theme=midnight-purple&title_color=9D4EDD&icon_color=8A2BE2&text_color=CDB4DB&bg_color=0D1117" />
 
 ---
 
 Até logo... 👋  
-<img src="https://github.com/EduardoNathan/EduardoNathan/blob/main/hey.gif?raw=true" width="25px" />
+<img src="https://github.com/EduardoNathan/EduardoNathan/blob/main/hey.gif?raw=true" width="25px">
 
 [⬆️ Voltar ao topo](#oi)
