@@ -1,9 +1,18 @@
-## Oi 👋  
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/EduardoNathan/EduardoNathan/main/blue-lock-isagi-yoichi.gif"
-    width="180"
-  />
+<table>
+  <tr>
+    <td valign="middle">
+
+## Oi 👋
+
+    </td>
+    <td valign="middle">
+      <img
+        src="https://raw.githubusercontent.com/EduardoNathan/EduardoNathan/main/blue-lock-isagi-yoichi.gif"
+        width="150"
+      />
+    </td>
+  </tr>
+</table>
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-8A2BE2?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/11942858992)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7B2CBF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-nathan-a992bb1ab/)
@@ -61,7 +70,7 @@ O ambiente é muito bom, o time é massa e estou curtindo demais esse momento da
 
 ## 📊 GitHub Stats
 
-<img 
+<img
   src="https://github-readme-stats.vercel.app/api?username=eduardonathan&show_icons=true&theme=midnight-purple&title_color=9D4EDD&icon_color=8A2BE2&text_color=CDB4DB&bg_color=0D1117"
 />
 
