@@ -1,6 +1,6 @@
 ## Oi 👋  
 <img 
-  src="https://media.tenor.com/nK1A8TVWuPV.gif"
+  src="https://raw.githubusercontent.com/EduardoNathan/EduardoNathan/main/blue-lock-isagi-yoichi.gif"
   width="18%"
   align="right"
 />
@@ -22,14 +22,14 @@ Sou apaixonado por tecnologia 💜
 Gosto de desenhar, interagir com amigos e amo música 🎧🎨
 
 Já trabalhei como **Desenvolvedor Android Junior** e **Desenvolvedor Java**  
-Atualmente encaro um novo desafio como **Programador Front-end** 🚀
+Atualmente estou em um novo desafio como **Programador Front-end** 🚀
 
 ---
 
 ## O que estou fazendo atualmente? 🍃
 
 - 🤝 Estudando **Next.js** e **TypeScript**
-- 💻 Evoluindo no Front-end
+- 💻 Evoluindo diariamente no Front-end
 - 📚 Aprendendo boas práticas, padrões e arquitetura
 
 ---
@@ -37,7 +37,7 @@ Atualmente encaro um novo desafio como **Programador Front-end** 🚀
 ## O que estou achando dessa nova fase 🤔
 
 Estou conciliando trabalho e estudos, conhecendo tecnologias novas e me aprofundando cada vez mais.  
-O ambiente é muito bom, o time é acolhedor e estou curtindo demais esse momento da minha carreira 💜
+O ambiente é muito bom, o time é massa e estou curtindo demais esse momento da minha carreira 💜
 
 ---
 
