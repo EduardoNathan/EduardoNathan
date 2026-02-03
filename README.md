@@ -1,9 +1,9 @@
 ## Oi 👋  
-<img 
-  src="https://raw.githubusercontent.com/EduardoNathan/EduardoNathan/main/blue-lock-isagi-yoichi.gif"
-  width="18%"
-  align="right"
-/>
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/EduardoNathan/EduardoNathan/main/blue-lock-isagi-yoichi.gif"
+    width="180"
+  />
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-8A2BE2?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/11942858992)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7B2CBF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-nathan-a992bb1ab/)
