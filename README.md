@@ -2,7 +2,6 @@
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-111111?style=for-the-badge&logo=whatsapp&logoColor=silver)](https://wa.me/11942858992)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=silver)](https://www.linkedin.com/in/eduardo-nathan-a992bb1ab/)
-[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=silver)](https://www.instagram.com/off_edxx/)
 ![Followers](https://img.shields.io/github/followers/eduardonathan?style=for-the-badge&color=444444)
 
 <p align="center">
