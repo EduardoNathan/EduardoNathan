@@ -1,4 +1,4 @@
-# Oi <img src="https://github.com/EduardoNathan/EduardoNathan/blob/main/blue-lock-isagi-yoichi.gif?raw=true" width="6%">
+# Oi <img src="https://github.com/EduardoNathan/EduardoNathan/blob/main/l-death-note.gif?raw=true" width="12%">
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-111111?style=for-the-badge&logo=whatsapp&logoColor=silver)](https://wa.me/11942858992)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=silver)](https://www.linkedin.com/in/eduardo-nathan-a992bb1ab/)
