@@ -35,8 +35,6 @@ Atualmente:
 
 💻 **Frontend Developer**
 
----
-
 <p align="center">
 
 ✝︎ ───────────── ✝︎ ───────────── ✝︎
