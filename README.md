@@ -28,7 +28,6 @@ Também gosto de:
 Já atuei como:
 
 - 📱 **Android Developer Junior**
-- ☕ **Java Developer**
 
 Atualmente:
 
@@ -42,8 +41,6 @@ Atualmente:
 
 # 🕯️ O que estou fazendo atualmente
 
-- ⚡ Estudando **Next.js**
-- 🧠 Aprendendo **TypeScript**
 - 💻 Evoluindo no **Front-end**
 - 📚 Estudando **boas práticas e arquitetura**
 
