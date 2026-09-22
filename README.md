@@ -15,7 +15,7 @@
 Oi, me chamo **Eduardo Nathan**  
 Tenho **24 anos** e moro em
 
-📍 **Carapicuíba - SP - Brasil**
+📍 **São Paulo - Brasil**
 
 Sou apaixonado por **tecnologia e desenvolvimento**.
 
