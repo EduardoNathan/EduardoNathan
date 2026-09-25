@@ -1,153 +1,86 @@
-# Oi <img src="https://github.com/EduardoNathan/EduardoNathan/blob/main/l-death-note.gif?raw=true" width="12%">
+<a name="topo"></a>
+
+<div align="center">
+
+# Oi <img src="https://github.com/EduardoNathan/EduardoNathan/blob/main/l-death-note.gif?raw=true" width="48">
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-111111?style=for-the-badge&logo=whatsapp&logoColor=silver)](https://wa.me/11942858992)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=silver)](https://www.linkedin.com/in/eduardo-nathan-a992bb1ab/)
 ![Followers](https://img.shields.io/github/followers/eduardonathan?style=for-the-badge&color=444444)
 
-```text
-+&%**o#######%%%@#&&&&&&&&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-+%%*oo###%#%%%%%@#&&&&&@@@@@@@@@@@@&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-*##*ooo##%%%%%%%@%&&&&&&&@@@@@@@@@@&@@@@@@@@@@@#+~=%&**&#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-=%#**oo###%%%%%&@&@&&&&@&@@@@@@@@@@@@@@@@@@&#=~+##oo-*o++=+-~~+o#&&@@@@@@@@@@@@@@@@@@@@@
-~%%**o###%%%%&&&&&&&&&&@@@@@@@@@@@@@@@@&o=`''```:~~=%#*%&@+*++++~-+#&@@@@@@@@@@@@@@@@@@@
-~#%**ooooo#o###&%&&&&@@@@@@@@@@@@@@@@&#+`.``'```.`-:==-=o%&%@o+=~++~~#@@@@@@@@@@@@@@@@@@
-=##**o##%%%#%%&@%&%%%&&&&&&&&&&&&&&@&#o-'`~..``'    `:-~~-:-*#o+=~o#*=#@@@@@@@@@@@@@@@@@
-=o#o*o###%%%%%%@#&&&&&@@@@@@@@@@@@@@@#%-..'     .'...  '``.'`-~~+=-~~-:o&&@&&&&&&&&&&&&&
-+o#oo##%%%%%%&%@#&&&&@@&@@@@@@@@@@@@@##~' .'''. ..            .'`::`-~:-#&@@@@@@@@@@@@@@
-+o##o###%%%%%%&@#&&&&@@@@@@@@@@@@@&@@%~-`. ..`.          .      .'`'..'`-%@@@@@@@@@@&@@@
-+%##o#%%%%%%%&&@%&&&&@@@@@@@@@@@@@@@@@`=~`.   .                  .....':~&@@@@@@&&&&&&&&
-*%#&o#%%%%%%%&&@%&&&&@@@@@@@@@@@@@@@%o+-``-~:````.     .:`'. ..'.''''.'-%&@@@@@@@&&&&&&&
-*%#@##%%%&&%&&&@&&@&&@@@@@@@@@@@@&*==++*+**oo***o*~~~==:o++'   '..'.' .+&@@@@@@@&&&&&&&&
-*%o&#%%&&&&@@&@@@@@@@@@@@@@@@@@@@=-=~+**o***ooo++~+##=:~*#*           ~&@@@@@@&&&&&&%&%&
-*%o%&#@@o#*#&+#&@o=%@@o##%%%&@@@@@@:~+*******++==-=o++o*o=.      ..  -@@@@@&@&&&&&&&%%%%
-o%#%%+oo *+#`**#o ~#&@'`````'%@@@@#''-*****++++---=+*#o-'    .    .'-%@@@@&&&&&&&&&%&&&&
-o%#&&++~.*+*:*+#'`o+==':::::`%@@@@&::-=**++=+===:-~=~~~=:    ..   :=%%@@&&&&&&&&&&&%&&&%
-o%%&%***#++***#%-o+=+'`.   '`&@@@@@%=+~~===--=====+==+*+~`        .-%&@@@&&&&&&&&&%%%%%%
-%&&@#*=++==+**#+*++*''`     '&@@@@@=-::``-~-:```:~===++==-`       .=~%@&&&&&&&%%%%%%%%%%
-o&&@*+~~~~~-:::---=~..'   . `&@&@&%.       .'``:::-~~~=+**++~-:`'.::~#&&&&&&%&%%%%%%%%%%
-%&&&+=~~---:-:::--=&@@@@@@@@@@@@@@@@&%%&@@@@&~'`::+#%&&&&&&%%%%%%%@@&&%%%%%%%%&&%%%%%%%%
-&%&&*=~~--:-:::::-+%@@@@@@@@@@&&@&@@@@@@@@@@@@&-*%%%%%%%%%%%%%##%#%@@@&&&&%%%%%%%##%%%##
-%%&&#+~-----::`-#@@@@&&&&&&&&&&&@&&&&&&&&&&&&&%#%%%#%%%%%%%%%%#%%#%@@@@@&%%%%%%%%%%%%%%#
-#%&%#*=~~~---:o@@@@&&&&&&&&&&&&&&&&&&%%&&&&&&&&@@@@@@@@@@@@@@@@@&&&@@@@@@@@&%%%%%%%%%%%%
-o#&%#*+=~~~-:*@@@&&&&&&&&&&&&&&&%%&&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&=#&@@@@@@@%%%%%%%%%%%
-o%@%o+~~-~~--%@&&&&&&&&&&&&&&&%&&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@~:@%@@@@@@@@@%%%%%%%%%
-o#&#*=~~~~~~~@&&&&&&&&&&&&&&%%@@@@@@@&@&&&@&&&&&@@@@@@@@@@@@@@@#@@o-#=@&@@`+*&&@%%%%%%%%
-##@o*=~~~~~~~@&&&&&&&&&&&&&##&@&%@@&&&%%%&&&%%%%%%%&&@@@@@@@:-o.~@#`&@&&&@.*~=:&@%%%%%%&
-##@o+===~~-~+@&&&&&&&&&&&&%%&&&%%#%@&%%#%%o&@&%%###%%`.`~+@#.~%.&@=`-%&&&@'#=o~@@%%%%%%&
-##@*++=-~~~~+&&&&&&&&&&&&#o%&&&&&&##&&%oo%oo@@%%%##+` .o. #@'=%.%@`~o#&&&&.o+*~@#o&%%%%&
-o#@++=='::~~+&&&&&&&&&&&###&@@@%##ooo%&%oo#*%=-~oo##  ~%: =@--&.#@'%: +&%+ ~~~=@*o&&&%%&
-#%o++=`:-`~~+%&&&&&&&%%&%#&@@o%######o#&ooo*+ ``  #&` :%~ `@+'& *:'@:o+%&%'o+~=%+=&&%%%&
-%@+=:-`~-:~=+#&&%%&&@&%%#%@'  '#%%###ooo%oo*' *=  +#~ .%*  #= *'@%o*@&+%&&%#%&@#:'&%%%%&
-#%==:'`~:-=***@@@@@#@@&%%&&@~   *%%##o#*o##*:'**  -#+  =`  #*-&%&%%#`:%%%%#o##%oo~&%%%%&
-#o=-`''~`'~+++%o%@@&&@&&%&%#%#`  -%##o*%=##~+%%=  'o+  +~'=##%%%%%%%%%%&%%%*ooo**%%%%%%%
-%*==~:'-::`-==~@%&@@&&%#%&%##%@+   *##*#~+o`+##  'o+  '###`-o#%%%%#%%%%%%%%*oo*+o&&&%%&&
-%+=~-:'.''`-~%@@@@&@@%##&&%##*#@%'  '=+o:*=~+~: '#o~  *o~ :o*o%######%%%%%%**o*=#&%%%%%%
-&+=~--:'.':-@@@@@@&@&%%%&&=    :#%*.  :-~+-*+o###oooo+=:''%*o#%%#%###%#%%%%**o++&%%%%#&%
-&=~~---`''.`@@@@@%%&%#o&&%` '+  :&#o```~=~=~=+oo***++++*oo#**#%%####%#%%%%%*+o=#%%%###&#
-%=~~--:-'''`@@@&@%%%##%&%=  ~#`.:  '~:-~~=+oo*****+++****oo*o#%%%%#oo%##%&#++*+%%%####&#
-&+~--::-:::'&@&%&@&%##@%%o%%:  +`'-:-~=++++++++++++*ooo***o*o%%%%%#oo###%&#+*+o%%#####%o
-%*~--:::-:`.+@&%##@@&&&##o=*o..:-~~=~=+**o**+++++*o##o****oo##%#%###o###%&o+*=%%#####%%o
-%o--::::::``:@&%%o#@@@o+o#=*+==~~==++~=*o*++++*o###o*++*o##oo%%%&###o###%&o+*+%%####o##o
-##-:````:``:`-%##o++o+=*o%@@+=+====+#*=+o#####%#oo*****ooo*o##%%&####oo#%@*+*o######o##o
-#%::```'''... '~++*#%&@@@@@%****++++##*=+*o####ooooo##o****oo##%%#o#ooo##&*+=%####ooo%oo
-```
+<img src="./assets/header.svg" alt="neofetch do Eduardo: retrato em ASCII, cargo, local e stack" width="100%">
 
-<p align="center">
+<img src="./assets/divider.svg" alt="" width="100%">
 
-✝︎ ───────────── ✝︎ ───────────── ✝︎
+</div>
 
-</p>
+## ⚔️ Quem sou eu
 
-# ⚔️ Quem sou eu
+Me chamo **Eduardo Nathan**, tenho **24 anos** e moro em **São Paulo**.  
+Comecei como **Android Developer Junior** escrevendo Java e hoje sou **Frontend Developer**, sempre atrás de código mais limpo e bem arquitetado.
 
-Oi, me chamo **Eduardo Nathan**  
-Tenho **24 anos** e moro em
+Fora do editor: 🎧 música, 🎨 desenho e 🤝 os amigos.
 
-📍 **São Paulo - Brasil**
+<div align="center">
+<img src="./assets/divider.svg" alt="" width="100%">
+</div>
 
-Sou apaixonado por **tecnologia e desenvolvimento**.
+## 🖥️ ~/eduardo
 
-Também gosto de:
+<div align="center">
+<img src="./assets/terminal.svg" alt="Terminal animado: whoami, git log da carreira, hobbies e npm run evoluir" width="100%">
+</div>
 
-🎧 Música  
-🎨 Desenhar  
-🤝 Interagir com amigos
+<div align="center">
+<img src="./assets/divider.svg" alt="" width="100%">
+</div>
 
-Já atuei como:
+## 🛠️ Stack
 
-- 📱 **Android Developer Junior**
+<div align="center">
 
-Atualmente:
+<img src="./assets/editor.svg" alt="eduardo.config.ts: cargo, ferramentas, linguagens e o que estou estudando" width="100%">
 
-💻 **Frontend Developer**
+<br><br>
 
-<p align="center">
+<table>
+<tr>
+<td align="center"><sub>⚒️ FERRAMENTAS</sub></td>
+<td align="center"><sub>💻 LINGUAGENS & PLATAFORMAS</sub></td>
+<td align="center"><sub>🧠 ESTUDANDO</sub></td>
+</tr>
+<tr>
+<td align="center">
 
-✝︎ ───────────── ✝︎ ───────────── ✝︎
-
-</p>
-
-# 🖥️ ~/eduardo
-
-<p align="center">
-<img src="./terminal.svg" alt="Terminal animado: whoami, git log da carreira, hobbies e npm run evoluir" width="100%">
-</p>
-
-<p align="center">
-
-✝︎ ───────────── ✝︎ ───────────── ✝︎
-
-</p>
-
-# 🕯️ O que estou fazendo atualmente
-
-- 💻 Evoluindo no **Front-end**
-- 📚 Estudando **boas práticas e arquitetura**
-
----
-
-<p align="center">
-
-✝︎ ───────────── ✝︎ ───────────── ✝︎
-
-</p>
-
-# 🛠️ Tecnologias, Ferramentas e Linguagens
-
-### ⚒️ Ferramentas
-
-![VSCode](https://img.shields.io/badge/VSCode-111111?style=for-the-badge&logo=visualstudiocode&logoColor=c0c0c0)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=c0c0c0)
+![VSCode](https://img.shields.io/badge/VSCode-111111?style=for-the-badge&logo=visualstudiocode&logoColor=c0c0c0)<br>
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=c0c0c0)<br>
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=c0c0c0)
 
-### 💻 Linguagens & Plataformas
+</td>
+<td align="center">
 
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=c0c0c0)
-![Android](https://img.shields.io/badge/Android-111111?style=for-the-badge&logo=android&logoColor=c0c0c0)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=c0c0c0)<br>
+![Android](https://img.shields.io/badge/Android-111111?style=for-the-badge&logo=android&logoColor=c0c0c0)<br>
 ![Markdown](https://img.shields.io/badge/Markdown-111111?style=for-the-badge&logo=markdown&logoColor=c0c0c0)
 
-### 🧠 Estudando
+</td>
+<td align="center">
 
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=c0c0c0)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=c0c0c0)<br>
 ![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=c0c0c0)
 
----
+</td>
+</tr>
+</table>
 
-<p align="center">
+<img src="./assets/divider.svg" alt="" width="100%">
 
-✝︎ ───────────── ✝︎ ───────────── ✝︎
+<br>
 
-</p>
+**Até logo** <img src="https://github.com/EduardoNathan/EduardoNathan/blob/main/hey.gif?raw=true" width="22">
 
----
-Até logo 👋
+<sub>[⬆ voltar ao topo](#topo)</sub>
 
-<img src="https://github.com/EduardoNathan/EduardoNathan/blob/main/hey.gif?raw=true" width="25px">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2b2b2b&height=120&section=footer" width="100%">
 
-[⬆️ Voltar ao topo](#-oi-)
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2b2b2b&height=120&section=footer"/>
-</p>
+</div>
